@@ -1,0 +1,123 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    color: #737373;
+}
+
+.nav-link {
+    color: #22343D;
+}
+
+.main-title {
+    color: #22343D;
+    font-size: 40px;
+}
+
+.contents-title {
+    color: #22343D;
+    font-size: 34px;
+}
+
+.color-blue {
+    color: #22343D;
+}
+
+.card-text {
+    font-size: 24px;
+    text-align: left;
+}
+
+.reviews h4 {
+    font-size: 34px;
+}
+
+.card {
+    max-width: 400px;
+    height: 100%;
+}
+
+.reviews p {
+    max-width: 570px;
+}
+
+.reviews-text {
+    font-size: 16px;
+}
+
+.card-body img {
+    padding-left: 16px;
+    padding-top: 16px;
+}
+
+.text-green {
+    color: #198754;
+    font-weight: 600;
+}
+
+.card-body span {
+    margin-top: -20px;
+}
+
+.review-card {
+    height: 236px;
+}
+
+.designer {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #252B42;
+}
+
+.get-block {
+    background: #198754;
+    border-radius: 32px;
+    margin-top: 95px;
+    height: auto;
+}
+
+.get-block img {
+    max-width: 100%;
+    height: auto;
+}
+
+.get-block a {
+    width: 150px;
+    height: 50px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #02897A;
+    text-decoration: none;
+    padding: 10px 35px;
+    margin-left: 108px;
+
+    display: inline-block;
+}
+
+.get-block h6 {
+    font-weight: 600;
+    font-size: 32px;
+    max-width: 700px;
+    padding-top: 64px;
+}
+
+.main-text {
+    font-size: 18px;
+    color: #22343D;
+}
+
+.footer {
+    margin-top: 90px;
+    background-color: #D1E7DD;
+    height: 76px;
+}
+
+.footer p {
+    padding-top: 23px;
+    font-size: 16px;
+    color: #22343D;
+}
