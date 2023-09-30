@@ -49,3 +49,4 @@
 
 ## Источники
 [Figma](https://www.figma.com/file/4EwMYMyBDC4GzpM2D5LU88/product?node-id=0%3A1&t=5Ov15WlYKNvLKPD6-0)
+
