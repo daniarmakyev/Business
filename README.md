@@ -48,5 +48,5 @@
 - [Макыев Данияр] — Front-End developer
 
 ## Источники
-[Figma](https://www.figma.com/file/4EwMYMyBDC4GzpM2D5LU88/product?node-id=0%3A1&t=5Ov15WlYKNvLKPD6-0)
+[Figma](https://www.figma.com/file/m4DBeT47VkwQlFKozHDcK5/NewProject?node-id=4%3A2)
 
