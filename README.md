@@ -42,11 +42,6 @@
 ```
 ![logo](images/header-pic-md.png)
 
-## Команда проекта
 
-
-- [Макыев Данияр] — Front-End developer
-
-## Источники
 [Figma](https://www.figma.com/file/m4DBeT47VkwQlFKozHDcK5/NewProject?node-id=4%3A2)
 
